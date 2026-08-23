@@ -1,4 +1,3 @@
-# CS-305-Module-Eight-Journal
 
 # CS 305 Module Eight Journal – Artemis Financial Portfolio Reflection
 
